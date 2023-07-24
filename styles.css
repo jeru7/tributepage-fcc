@@ -45,7 +45,7 @@ figure {
 }
 
 #img-caption {
-  font-size: 10px;
+  font-size: 13px;
   margin: 10px;
 }
 
@@ -55,7 +55,7 @@ figure {
 
 .info-container #tribute-info {
   text-align: center;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 700;
   padding-top: 20px;
 }
@@ -64,7 +64,7 @@ ul {
   display: flex;
   flex-direction: column;
   width: 500px;
-  font-size: 10px;
+  font-size: 13px;
   margin: 20px auto 30px auto;
   gap: 15px;
 }
@@ -79,12 +79,12 @@ span {
   text-align: left;
 }
 em {
-  font-size: 10px;
+  font-size: 13px;
 }
 
 footer {
   width: 500px;
   margin: 15px auto 0 auto;
   font-weight: 700;
-  font-size: 13px;
+  font-size: 15px;
 }
