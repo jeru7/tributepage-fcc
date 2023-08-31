@@ -1,4 +1,4 @@
-﻿# Tribute Page - freeCodeCamp Assignment
+# Tribute Page - freeCodeCamp Assignment
 
 ## Description
 
