@@ -6,7 +6,7 @@ This is my submission in freecodecamp's tribute page assignment.
 
 ## Live Site
 
-Feel free to visit the live version of the tribute page: [Visit site](https://jeru7.github.io/tributepage/)
+Feel free to visit the live version of the tribute page: [Visit site](https://jeru7.github.io/tributepage-fcc/)
 
 ## Preview
 
